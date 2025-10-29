@@ -1,6 +1,6 @@
 'use client';
 
-export default function NavbarSearch() {
+export function NavbarSearch() {
     return (
         <>
             {/* ナビバー内 */}

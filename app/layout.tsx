@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import Navbar from "@/components/Navbar";
+import { Navbar } from "@/components/Navbar";
 import "./globals.css";
 
 
+
 export const metadata: Metadata = {
-  title: "My Portfolio",
+  title: "Mitsuhiro Harashima",
   description: "Portfolio website of mitsuhiro",
 };
 

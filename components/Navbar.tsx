@@ -1,8 +1,8 @@
 'use client';
 
-import NavbarSearch from "./NavbarSearch";
+import { NavbarSearch } from "./NavbarSearch";
 
-export default function Navbar() {
+export function Navbar() {
     return (
         <>
             {/* ✅ Navigation Bar */}
@@ -11,20 +11,20 @@ export default function Navbar() {
                     {/* ロゴ */}
                     <a className="navbar-brand d-flex align-items-center" href="/">
                         <img src="/logo.png" alt="Logo" width="30" height="30" className="me-2 rounded-circle" />
-                        Mitsuhiro
+                        Mitsuhiro Harashima
                     </a>
                     {/* メニュー */}
                     <div>
                         <a className="nav-link d-inline text-light me-3" href="/">
                             Home
                         </a>
-                        <a className="nav-link d-inline text-light" href="/">
+                        <a className="nav-link d-inline text-light" href="/ProjectsPage">
                             Projects
                         </a>
-                        <a className="nav-link d-inline text-light me-3" href="/">
+                        <a className="nav-link d-inline text-light me-3" href="/CVPage">
                             CV
                         </a>
-                        <a className="nav-link d-inline text-light me-3" href="/">
+                        <a className="nav-link d-inline text-light me-3" href="/contactPage">
                             contact
                         </a>
                         <NavbarSearch />
