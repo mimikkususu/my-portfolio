@@ -21,12 +21,19 @@ export function Navbar() {
                         <a className="nav-link d-inline text-light" href="/ProjectsPage">
                             Projects
                         </a>
-                        <a className="nav-link d-inline text-light me-3" href="/CVPage">
+                        <a className="nav-link d-inline text-light" href="/CVPage">
                             CV
                         </a>
                         <a className="nav-link d-inline text-light me-3" href="/contactPage">
                             contact
                         </a>
+                        <a className="nav-link d-inline text-light me-3" href="/English">
+                            English
+                        </a>
+                        <a className="nav-link d-inline text-light me-3" href="/English">
+                            Korea
+                        </a>
+
                         <NavbarSearch />
                     </div>
                 </div>
