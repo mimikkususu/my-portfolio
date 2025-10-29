@@ -28,7 +28,6 @@ export function Navbar() {
                             contact
                         </a>
                         <NavbarSearch />
-
                     </div>
                 </div>
             </nav>

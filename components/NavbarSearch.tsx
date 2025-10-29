@@ -12,7 +12,6 @@ export function NavbarSearch() {
             >
                 🔍 Search
             </button>
-
             {/* モーダル */}
             <div
                 className="modal fade"
@@ -52,6 +51,5 @@ export function NavbarSearch() {
                 </div>
             </div>
         </>
-
     );
 }
