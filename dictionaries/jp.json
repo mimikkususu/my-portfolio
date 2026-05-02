@@ -1,0 +1,44 @@
+{
+  "navbar": {
+    "home": "ホーム",
+    "projects": "プロジェクト",
+    "cv": "履歴書",
+    "contact": "お問い合わせ",
+    "search": "検索"
+  },
+  "home": {
+    "greeting": "こんにちは!",
+    "welcome_msg": "私のポートフォリオを訪問いただきありがとうございます！",
+    "name": "原島 充弘",
+    "job_title": "ソフトウェアエンジニア志望",
+    "profile_badge": "PROFILE SUMMARY",
+    "bio": "Sun Moon University（鮮文大学校）ソフトウェア融合学部 AIソフトウェア学科に在籍し、卒業を控えています。<br />2023年には<a href='https://no1s.biz/' class='text-dark text-decoration-underline' target='_blank'>株式会社ナンバーワンソリューションズ</a>にて半年間インターンシップを経験しました。<br />2026年2月に大学卒業予定で、同年4月より<a href='https://www.isoroot.jp/' class='text-dark text-decoration-underline' target='_blank'>株式会社アイソルート</a>にソフトウェアエンジニアとして新卒入社予定です。"
+  },
+  "cv": {
+    "title": "学歴・経歴",
+    "description": "私の学歴と実務経験を簡潔にご紹介します。",
+    "bachelor_title": "学士課程（Bachelor’s Degree）",
+    "bachelor_period": "2021年3月 – 2026年2月（予定）",
+    "bachelor_detail": "人工知能とソフトウェア開発を中心に学習。PythonやJavaScriptを用いた開発、AIモデル構築、データ分析を経験。",
+    "hs_title": "高校卒業",
+    "hs_period": "2018年4月 – 2021年3月",
+    "hs_name": "〇〇高等学校",
+    "hs_detail": "情報処理やプログラミングに関心を持ち、基礎的なアルゴリズムとICTスキルを学ぶ。",
+    "exp_title": "奉仕活動・業務経験",
+    "exp_period": "2023年（半年間）",
+    "exp_name": "韓国企業での受付名簿管理",
+    "exp_detail": "Googleスプレッドシートを使用した名簿管理業務を担当。手動作業の非効率さを改善するため、後に名簿管理アプリを自主開発。"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "ご連絡お待ちしています。",
+    "university": "大学",
+    "phone": "電話",
+    "email": "Email",
+    "address": "住所"
+  },
+  "search": {
+    "placeholder": "検索ワードを入力...",
+    "button": "検索"
+  }
+}
