@@ -1,0 +1,44 @@
+{
+    "navbar": {
+        "home": "Home",
+        "projects": "Projects",
+        "cv": "CV",
+        "contact": "Contact",
+        "search": "Search"
+    },
+    "home": {
+        "greeting": "Hello!",
+        "welcome_msg": "Thank you for visiting my portfolio!",
+        "name": "Mitsuhiro Harashima",
+        "job_title": "Aspiring Software Engineer",
+        "profile_badge": "PROFILE SUMMARY",
+        "bio": "Currently a senior at Sun Moon University, majoring in AI Software within the Faculty of Software Convergence.<br />In 2023, I completed a six-month internship at <a href='https://no1s.biz/' class='text-dark text-decoration-underline' target='_blank'>Number One Solutions Co., Ltd.</a><br />I am scheduled to graduate in February 2026 and will join <a href='https://www.isoroot.jp/' class='text-dark text-decoration-underline' target='_blank'>Isoroot Corporation</a> as a Software Engineer in April 2026."
+    },
+    "cv": {
+        "title": "Education & Experience",
+        "description": "A brief overview of my academic background and professional experience.",
+        "bachelor_title": "Bachelor’s Degree",
+        "bachelor_period": "March 2021 – February 2026 (Expected)",
+        "bachelor_detail": "Focused on AI and software development. Gained experience in development using Python and JavaScript, AI model building, and data analysis.",
+        "hs_title": "High School Graduation",
+        "hs_period": "April 2018 – March 2021",
+        "hs_name": "XX High School",
+        "hs_detail": "Developed an interest in information processing and programming, learning basic algorithms and ICT skills.",
+        "exp_title": "Volunteer & Work Experience",
+        "exp_period": "2023 (6 months)",
+        "exp_name": "Visitor Records Management at a Korean Company",
+        "exp_detail": "Managed visitor lists using Google Sheets. Later developed a custom application to improve the efficiency of manual tasks."
+    },
+    "contact": {
+        "title": "Contact",
+        "description": "I look forward to hearing from you.",
+        "university": "University",
+        "phone": "Phone",
+        "email": "Email",
+        "address": "Address"
+    },
+    "search": {
+        "placeholder": "Type to search...",
+        "button": "Search"
+    }
+}
