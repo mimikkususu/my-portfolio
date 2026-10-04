@@ -8,11 +8,11 @@
   },
   "home": {
     "greeting": "こんにちは!",
-    "welcome_msg": "私のポートフォリオを訪問いただきありがとうございます！",
+    "welcome_msg": "ポートフォリオを訪問いただきありがとうございます！",
     "name": "原島 充弘",
-    "job_title": "ソフトウェアエンジニア志望",
+    "job_title": "ソフトウェアエンジニア",
     "profile_badge": "PROFILE SUMMARY",
-    "bio": "Sun Moon University（鮮文大学校）ソフトウェア融合学部 AIソフトウェア学科に在籍し、卒業を控えています。<br />2023年には<a href='https://no1s.biz/' class='text-dark text-decoration-underline' target='_blank'>株式会社ナンバーワンソリューションズ</a>にて半年間インターンシップを経験しました。<br />2026年2月に大学卒業予定で、同年4月より<a href='https://www.isoroot.jp/' class='text-dark text-decoration-underline' target='_blank'>株式会社アイソルート</a>にソフトウェアエンジニアとして新卒入社予定です。"
+    "bio": "初めまして、<a href='https://www.isoroot.jp/' class='text-dark text-decoration-underline' target='_blank'>株式会社アイソルート</a>で Web アプリケーションの保守・開発を担当している原島充弘です。<br>大学時代には韓国へ5年間留学しており、韓国語を使った業務にも対応可能です。<br>採用ブログも書いていますので、よかったら覗いてみてください。どんな雰囲気で働いているか、私の人柄も伝わる内容になっています。"
   },
   "cv": {
     "title": "学歴・経歴",

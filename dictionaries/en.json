@@ -10,9 +10,9 @@
         "greeting": "Hello!",
         "welcome_msg": "Thank you for visiting my portfolio!",
         "name": "Mitsuhiro Harashima",
-        "job_title": "Aspiring Software Engineer",
+        "job_title": "Software Engineer",
         "profile_badge": "PROFILE SUMMARY",
-        "bio": "Currently a senior at Sun Moon University, majoring in AI Software within the Faculty of Software Convergence.<br />In 2023, I completed a six-month internship at <a href='https://no1s.biz/' class='text-dark text-decoration-underline' target='_blank'>Number One Solutions Co., Ltd.</a><br />I am scheduled to graduate in February 2026 and will join <a href='https://www.isoroot.jp/' class='text-dark text-decoration-underline' target='_blank'>Isoroot Corporation</a> as a Software Engineer in April 2026."
+        "bio": "Nice to meet you. I’m Mitsuhiro Harashima, a software engineer working at <a href='https://www.isoroot.jp/' class='text-dark text-decoration-underline' target='_blank'>Isoroot Co., Ltd.</a>, where I am involved in the maintenance and development of web applications.<br>I studied in South Korea for five years during university, and I am able to work using Korean as well.<br>I also write recruitment blogs, so feel free to take a look. They offer a glimpse into the working environment and my personality."
     },
     "cv": {
         "title": "Education & Experience",
